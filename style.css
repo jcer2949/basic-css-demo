@@ -1,0 +1,29 @@
+ody{
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color:white;
+    text-decoration: none; 
+    font-size: 1.5em; 
+    padding:0.5em;
+}
+
+nav {
+    background-color: black; 
+    text-align: center;
+}
+
+header {
+    background-color: white; 
+    text-align: center;
+}
+
+img{
+    width:100%
+}
+
+footer {
+    background-color: #8b9dc3; 
+    text-align: center;
+}
